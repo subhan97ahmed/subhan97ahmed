@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhan97ahmed
 - 👀 I’m interested in AI
-- 🌱 I’m currently doing Computer Science
+- 🌱 I’m currently doing Bachelor of Science in Computer Science
 - 💞️ I’m looking to collaborate on any real world problem solving project
 - 📫 How to reach me on linkedin subhan09ahmed https://www.linkedin.com/in/subhan09ahmed/
 
