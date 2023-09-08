@@ -5,17 +5,17 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:subhan97ahmed@gmail.com)
 
 ##  🔭 About Me:
-- 👀 I’m interested in ML And Games
+- 👀 I’m interested in ML and Games
 
-- 🌱 I’m currently learning Tensorflow;
+- 🌱 I’m currently learning Tensorflow
 
--  💞️ I’m looking to collaborate on any problem solving project;
+-  💞️ I’m looking to collaborate on any problem solving project
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
-- ⚡️ Fun-Fact: I am a nocturnal 🦉;
+- ⚡️ Fun-Fact: I am a nocturnal 🦉
 
-- 📫 How to reach me: https://www.linkedin.com/in/subhan09ahmed/;
+- 📫 How to reach me: https://www.linkedin.com/in/subhan09ahmed/
 
 
 ## 🛠️ Tools & Languages:
