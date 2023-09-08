@@ -5,11 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:subhan97ahmed@gmail.com)
 
 ##  🔭 About Me:
-- 👀 I’m interested in ML
+- 👀 I’m interested in ML And Games
 
 - 🌱 I’m currently learning Tensorflow;
 
--  💞️ I’m looking to collaborate on any real world problem solving project;
+-  💞️ I’m looking to collaborate on any problem solving project;
 
 - 💬 Ask me about anything, I am happy to help;
 
