@@ -33,8 +33,11 @@
 </div>
 
 ## My Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhan97ahmed&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan97ahmed&layout=compact&theme=vision-friendly-dark)
+
+<!--
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhan97ahmed&theme=dark&background=000000)
+--->
 
 <img src="https://komarev.com/ghpvc/?username=subhan97ahmed&style=flat-square&color=blue" alt=""/>
 
